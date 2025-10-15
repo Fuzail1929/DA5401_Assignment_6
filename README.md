@@ -69,4 +69,4 @@ The aim is to compare simple and regression-based imputations and evaluate their
 1. Clone the repository:  
    ```bash
    git clone https://github.com/Fuzail1929/DA5401_Assignment_6.git
-   cd DA5401-A6-Imputation
+   cd DA5401_Assignment_6
