@@ -1,6 +1,6 @@
-## - Name : Mohd Fuzail 
-## - Roll no.: CH22B080
-## - Date :15-10-25
+- Name : Mohd Fuzail 
+- Roll no.: CH22B080
+- Date :15-10-25
 
 
 # 🧩 DA5401 A6 — Imputation via Regression for Missing Data
